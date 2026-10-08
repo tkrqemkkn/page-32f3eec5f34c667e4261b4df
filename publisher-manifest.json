@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "da7ea92b841e7f8c69f11482",
+  "owner": "tkrqemkkn",
+  "repo": "page-32f3eec5f34c667e4261b4df",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "32f3eec5f34c667e4261b4df",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f35df234516ffd33d9e276181cd56b16bb4f7a7362f4af2708b1b496eebda685",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供TG号机场VPN网络加速服务，支持多种流量套餐和客户端下载。官网官方下载，稳定高速体验无忧。",
+          "AI_DESCRIPTION": "TG号批发提供TG号机场VPN网络加速服务，支持多种流量套餐和客户端下载。官网官方下载，稳定高速体验无忧。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {font-family: Arial, sans-serif; line-height: 1.6; color: #333; background: #f8f5f0; margin: 0; padding: 0;}\n.container {max-width: 1200px; margin: 0 auto; padding: 20px;}\nheader {text-align: center; padding: 60px 20px 40px; background: linear-gradient(to right, #f8f5f0, #fff);}\nh1 {font-size: 3.5rem; color: #ff6b6b; margin: 0 0 10px;}\n.subtitle {font-size: 1.5rem; color: #666;}\n.hero-button {background: #ff6b6b; color: white; padding: 15px 30px; border: none; font-size: 1.2rem; border-radius: 8px; cursor: pointer; margin-top: 20px;}\n.section {padding: 60px 0;}\nh2 {font-size: 2.2rem; color: #ff6b6b; text-align: center; margin-bottom: 30px;}\n.intro {text-align: center; max-width: 800px; margin: 0 auto 40px;}\n.intro p {font-size: 1.1rem; color: #555;}\n.scenarios {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;}\n.scenario {background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);}\n.scenario h3 {color: #ff6b6b; margin-top: 0;}\n.plans {display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px;}\n.plan {background: white; padding: 40px 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); text-align: center; position: relative;}\n.plan.featured {border: 3px solid #ff6b6b; transform: scale(1.05);}\n.plan.price {font-size: 2rem; color: #ff6b6b; margin: 20px 0;}\n.plan.features {list-style: none; padding: 0; text-align: left;}\n.plan.features li {padding: 8px 0; font-size: 1rem; color: #444;}\n.faq {max-width: 800px; margin: 0 auto;}\ndetails {background: white; margin-bottom: 15px; border-radius: 8px; overflow: hidden;}\nsummary {padding: 20px; font-size: 1.2rem; font-weight: bold; color: #333; cursor: pointer; list-style: none; position: relative;}\nsummary::-webkit-details-marker {display: none;}\n.faq-content {padding: 0 20px 20px; color: #555;}\nfooter {text-align: center; padding: 40px; background: #333; color: white;}\n.download-btn {background: #ff6b6b; color: white; padding: 12px 25px; border: none; font-size: 1.1rem; border-radius: 6px; cursor: pointer;}\n</style>\n\n\n<main>\n<header>\n<h1>TG号批发</h1>\n<p class=\"subtitle\">VPN 梯子加速器 | TG号机场订阅 &amp; 客户端下载</p>\n\n</header>\n<section class=\"section intro\">\n<h2>品牌简介</h2>\n<p>TG号批发专注于提供优质的VPN梯子网络加速服务。通过批发TG号资源，我们为您打造稳定高效的网络环境。无论是个人用户还是企业，都能找到专属的加速方案。</p>\n</section>\n<section class=\"section scenarios\">\n<h2>使用场景</h2>\n<div class=\"scenarios\">\n<div class=\"scenario\"><h3>流媒体解锁</h3><p>解锁Netflix、YouTube、Disney+等国际平台，畅享全球内容。</p></div>\n<div class=\"scenario\"><h3>游戏加速</h3><p>IPLC专线优化，提供低延迟游戏加速，支持多人在线游戏。</p></div>\n<div class=\"scenario\"><h3>办公访问</h3><p>全球节点覆盖，稳定连接办公室或远程办公。</p></div>\n</div>\n</section>\n<section class=\"section plans\" id=\"plans\">\n<h2>选择适合您的套餐</h2>\n<div class=\"plans\">\n<div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul class=\"plan.features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div>\n<div class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul class=\"plan.features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div>\n<div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul class=\"plan.features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div>\n</div>\n</section>\n<section class=\"section operation\">\n<h2>操作说明</h2>\n<ol>\n<li>访问官网，了解TG号机场加速套餐</li>\n<li>选择适合的订阅计划，完成支付</li>\n<li>下载并安装客户端</li>\n<li>使用TG号订阅凭证登录</li>\n<li>连接节点，享受网络加速</li>\n</ol>\n</section>\n<section class=\"section faq\" id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq\">\n<details><summary>什么是TG号批发？</summary><div class=\"faq-content\">TG号批发是专业的VPN梯子加速服务，提供TG号机场订阅和客户端下载，帮助用户突破网络限制，获得稳定高速的网络体验。</div></details>\n<details><summary>如何下载客户端？</summary><div class=\"faq-content\">您可以点击页面上的“立即下载客户端”按钮，或在操作说明中找到下载链接，获取官方客户端进行安装使用。</div></details>\n<details><summary>支持哪些设备？</summary><div class=\"faq-content\">支持Windows、Mac、Android、iOS和更多平台，根据套餐支持同时在线设备数量。</div></details>\n<details><summary>流量如何使用？</summary><div class=\"faq-content\">每月GB流量，超出部分可能限速或需升级套餐。建议根据使用需求选择匹配的流量套餐。</div></details>\n<details><summary>售后服务如何？</summary><div class=\"faq-content\">旗舰版及以上套餐提供7x24 优先工单支持，团队版有专属客户经理服务。</div></details>\n</div>\n</section>\n<section class=\"section download\" id=\"download\">\n<h2>客户端选择</h2>\n<p>选择适合您的设备，立即下载TG号机场客户端：</p>\n\n\n\n</section>\n<footer>\n<p>© 2024 TG号批发 所有权利保留</p>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "a433f769ab6a4f8854eb7eb6b0d2fce2616791a19903f4fa205c29123b898677",
+          "seo": {
+            "title": "TG号批发 - VPN梯子加速器 客户端下载",
+            "keywords": "TG号批发, TG号机场, VPN加速器, 梯子加速, 客户端下载, 机场订阅",
+            "description": "TG号批发提供TG号机场VPN网络加速服务，支持多种流量套餐和客户端下载。官网官方下载，稳定高速体验无忧。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "udwbea.cn",
+    "host": "p-94bea7dafc.udwbea.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "77dfc5028f16f867b21b2dfb9822792adef258482e1cbd94202216803eee0ca6",
+    "sitemap.xml": "10b50a21d90092dcb221f5426e0cc26b1683b89e4488ac7e1aa61a0ad63588a9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b0785b7b22d8b15f2c33fe1af313d9307d245c0e61e18f9686f8c32e6438a9f",
+    "robots.txt": "7923aae5b793d55516667d9c19a8448053416e3abe6935e2b07300cc17919395",
+    "4061af70ab5b1961bbc77e3a0d244585.txt": "e64ec1105f154f019648393261aaa405b55d574097a87062177506aa96e17478"
+  },
+  "revision": "e01ed6d521fd4c6931b1dbd08040bc83569479555d0f57a2d4b79e38a27aadab"
+}
